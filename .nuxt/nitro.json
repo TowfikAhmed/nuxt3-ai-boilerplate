@@ -1,0 +1,18 @@
+{
+  "date": "2024-11-07T11:42:42.989Z",
+  "preset": "nitro-dev",
+  "framework": {
+    "name": "nuxt",
+    "version": "3.14.159"
+  },
+  "versions": {
+    "nitro": "2.10.3"
+  },
+  "dev": {
+    "pid": 94,
+    "workerAddress": {
+      "host": "localhost",
+      "port": 60770
+    }
+  }
+}

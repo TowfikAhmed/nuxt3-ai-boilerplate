@@ -1,0 +1,23 @@
+```
+    Project Instructions for My App
+
+    1. Project Base Directory:
+       - The project is located in the `test` directory.
+
+    2. Key Files and Directories:
+       - `layouts/default.vue`: Common layout with header and footer.
+       - `components/Header.vue`: Header component.
+       - `components/Footer.vue`: Footer component.
+       - `pages/index.vue`: Home page.
+       - `pages/about.vue`: About page.
+       - `pages/contact.vue`: Contact page.
+
+    3. Packages Managed and Installed:
+       - Nuxt.js: Framework for building the application.
+       - Tailwind CSS: Utility-first CSS framework for styling.
+
+    4. Running the Project:
+       - Use `npm run dev` to start the development server.
+
+    Keep this file updated.
+    ```
